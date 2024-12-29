@@ -110,6 +110,11 @@ main{
     color: white;
 }
 
+#tpy{
+    text-decoration: none;
+    color: black;
+}
+
 main h1{
     color: var(--cor5);
     font-family: var(--fonte-android);
